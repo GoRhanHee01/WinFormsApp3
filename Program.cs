@@ -1,4 +1,4 @@
-namespace WinFormsApp3
+namespace CS_Week01_25017093_MyBusinessCard
 {
     internal static class Program
     {

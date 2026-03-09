@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace WinFormsApp3
+namespace CS_Week01_25017093_MyBusinessCard
 {
     public partial class Form1 : Form
     {

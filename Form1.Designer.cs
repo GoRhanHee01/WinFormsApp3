@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp3
+﻿namespace CS_Week01_25017093_MyBusinessCard
 {
     partial class Form1
     {
@@ -90,7 +90,7 @@
             // pictureBox1
             // 
             pictureBox1.AccessibleRole = AccessibleRole.Caret;
-            pictureBox1.Image = Properties.Resources.photo;
+            pictureBox1.Image = CS_Week01_25017093_MyBusinessCard.Properties.Resources.photo;
             pictureBox1.Location = new Point(106, 44);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(432, 620);

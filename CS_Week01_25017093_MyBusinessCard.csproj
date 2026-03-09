@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CS_Week01_25017093_MyBusinessCard</RootNamespace>
+    <AssemblyTitle>CS_Week01_25017093_MyBusinessCard</AssemblyTitle>
   </PropertyGroup>
 
   <ItemGroup>
